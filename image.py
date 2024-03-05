@@ -21,8 +21,8 @@ def convert_png_2_etc2(png_file_path):
 
         return bytes(etc2_data)
 
-png_file_path = '.\\Screenshot 2023-06-10 013516.png'
+png_file_path = '.\\yourImage.png'
 etc2_data = convert_png_2_etc2(png_file_path)
 
-with open('Screenshot 2023-06-10 013516.3dst','wb+') as f:
+with open('yourImage.3dst','wb+') as f:
     f.write(etc2_data)
