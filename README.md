@@ -1,5 +1,5 @@
 # 3DST-Converter:
-- Previously known as: **PNG-2-3DST**.
+- Previously known as: ***PNG-2-3DST***.
 - This is a script that takes advantage of `ETC2_ABGR` and `ETC2_RGBA` to Convert Multiple Formats to 3DST.
 
 <br>
