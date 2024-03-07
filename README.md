@@ -4,7 +4,7 @@
 
 <br>
 
-## Script Usage:
+## Script Flags/Usage:
 ```
 Convert 3DST to Image:   --convert2image,   -c2i
 Convert Image to 3DST:   --image2raw,       -i2r
@@ -16,7 +16,7 @@ Don't Show Image:        --show-false,      -sf (Alternatively, Leave it blank).
 
 <br>
 
-### Example Usage:
+## Example Usage:
 - **Convert ^.3DST to ^.PNG:**
 ```
 python.exe etc_converter.py "sunset.3dst" --convert2image --show-true
