@@ -6,16 +6,11 @@
 - Supports the following Image Formats:
 ```
 *.png
-*.jpg
-*.jpeg
+*.jpg, *.jpeg, *.jfif
 *.gif
-*.jfif
 *.bmp
-*.tiff
-*.tif
-*.ico
-*.icon
+*.tiff, *.tif
+*.ico, *.icon
 *.webp
-*.jp2
-*.j2k
+*.jp2, *.j2k
 ```
