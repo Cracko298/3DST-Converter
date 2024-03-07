@@ -12,6 +12,10 @@ Don't Show Image:        --show-false,      -sf (Alternatively, Leave it blank).
 *** Show Images ONLY work for '--convert2image' or '-c2i'.
 ```
 
+<br>
+<br>
+<br>
+
 ### Example Usage:
 - **Convert ^.3DST to ^.PNG:**
 ```
@@ -27,6 +31,10 @@ python.exe etc_converter.py "sunset.jpg" --image2raw -sf
 python.exe etc_converter.py "isz_screenshot.bmp" --image2raw -sf
 python.exe etc_converter.py "texture_ui.tiff" --image2raw -sf
 ```
+
+<br>
+<br>
+<br>
 
 ## Feature(s):
 - Converts multiple image formats into a raw `ETC_ABGR/ETC_RGBA` *.3dst image for Minecraft3DS Modding.
