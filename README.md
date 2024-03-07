@@ -2,6 +2,9 @@
 - Previously known as: **PNG-2-3DST**.
 - This is a script that takes advantage of `ETC2_ABGR` and `ETC2_RGBA` to Convert Multiple Formats to 3DST.
 
+<br>
+<br>
+
 ## Script Usage:
 ```
 Convert 3DST to Image:   --convert2image,   -c2i
@@ -12,7 +15,6 @@ Don't Show Image:        --show-false,      -sf (Alternatively, Leave it blank).
 *** Show Images ONLY work for '--convert2image' or '-c2i'.
 ```
 
-<br>
 <br>
 <br>
 
@@ -32,7 +34,6 @@ python.exe etc_converter.py "isz_screenshot.bmp" --image2raw -sf
 python.exe etc_converter.py "texture_ui.tiff" --image2raw -sf
 ```
 
-<br>
 <br>
 <br>
 
